@@ -11,4 +11,4 @@ class TestCoding:
 
     def test_resp_message(self):
         # assert req.json()["message"] == "成功!"
-        assert 1 + 3 == 3
+        assert 1 + 3 == 4
